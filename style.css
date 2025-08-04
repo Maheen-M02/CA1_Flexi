@@ -63,7 +63,7 @@ body {
   text-align: center;
 }
 
-/* Responsive for phones */
+
 @media (max-width: 768px) {
   .container {
     grid-template-areas:
@@ -76,3 +76,4 @@ body {
     grid-template-columns: 1fr;
   }
 }
+
